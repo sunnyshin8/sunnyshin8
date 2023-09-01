@@ -22,4 +22,7 @@
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunnyshin8&show_icons=true&locale=en" alt="sunnyshin8" /></p>-->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunnyshin8" alt="sunnyshin8" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunnyshin8&show_icons=true&locale=en" alt="sunnyshin8" /></p>-->
+
+ <p>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sunnyshin8&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&type=png)](https://git.io/streak-stats)< p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunnyshin8" alt="sunnyshin8" /></p>
