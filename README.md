@@ -24,5 +24,7 @@
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunnyshin8&show_icons=true&locale=en" alt="sunnyshin8" /></p>-->
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sunnyshin8&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+<!--[![GitHub Streak](https://streak-stats.demolab.com?user=sunnyshin8&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)-->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunnyshin8&show_icons=true&theme=radical&rank_icon=github)](https://github.com/sunnyshin8)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=radical&layout=donut)](https://github.com/sunnyshin8)
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunnyshin8" alt="sunnyshin8" /></p>-->
