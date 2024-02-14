@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hemal</h1>
 <p> I am skilled in Front End development, Logo designing, C++, and Python, Machine Learning, Azure, Augmented Reality. Interested in Software Development. Can bring good ideas to the table and have an innovative and learning mind.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sunnyshin8&label=Profile%20views&color=0e75b6&style=flat" alt="vineetkumarg8" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sunnyshin8&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunnyshin8&theme=alduin" alt="sunnyshin8" /></a> </p>
 
