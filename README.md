@@ -37,7 +37,7 @@
 <br>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sunnyshin8&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)<br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunnyshin8&show_icons=true&theme=radical&rank_icon=github)](https://github.com/sunnyshin8)<br>
+![sunnyshin8's Stats](https://github-readme-stats.vercel.app/api?username=sunnyshin8&theme=dracula&show_icons=true&hide_border=true&count_private=true&rank_icon=github)
 ![sunnyshin8's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunnyshin8&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunnyshin8" alt="sunnyshin8" /></p>-->
 
