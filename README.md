@@ -21,6 +21,8 @@
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="20">
 <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" width="70">
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" width="70">
+<img alt="Static Badge" src="https://img.shields.io/badge/-jupyter-grey?style=for-the-badge&logo=jupyter&logoColor=white">
+
 <hr>
 
 ---------------------------------
