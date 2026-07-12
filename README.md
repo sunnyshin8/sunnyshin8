@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm Hemal</h1>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="light.svg" />
+    <img alt="Hemal Shingloo Profile Banner" src="dark.svg" width="100%" />
+  </picture>
+</div>
 <p> I am skilled in Front End development, Logo designing, C++, and Python, Machine Learning, Azure, Augmented Reality. Interested in Software Development. Can bring good ideas to the table and have an innovative and learning mind.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunnyshin8&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
