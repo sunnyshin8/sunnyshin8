@@ -1,16 +1,12 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="light.svg" />
-    <img alt="Hemal Shingloo Profile Banner" src="dark.svg" width="100%" />
-  </picture>
+  <img alt="Hemal Shingloo Profile Banner" src="dark.svg" width="100%" />
 </div>
 
 <p>Results-driven Software Engineer with a Bachelor of Technology in Computer Science and specialized experience in data analysis and AI. Proficient in Python, TensorFlow, and PyTorch, with a proven track record of transforming complex datasets into actionable insights and optimizing system performance. Experienced in developing cloud-native solutions and AI-powered platforms.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunnyshin8&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunnyshin8&theme=darkhub&no-frame=true&margin-w=10" alt="sunnyshin8" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunnyshin8&theme=onedark&no-frame=true&margin-w=10&column=7" alt="sunnyshin8" /></a> </p>
 
 ---
 
@@ -83,6 +79,12 @@
 
 ### 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sunnyshin8&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)<br>
-![sunnyshin8's Stats](https://github-readme-stats.vercel.app/api?username=sunnyshin8&theme=dracula&show_icons=true&hide_border=true&count_private=true&rank_icon=github) <br>
-![sunnyshin8's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunnyshin8&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sunnyshin8&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sunnyshin8&theme=highcontrast&show_icons=true&hide_border=true&count_private=true&rank_icon=github" alt="sunnyshin8's Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnyshin8&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" alt="sunnyshin8's Top Languages" />
+</p>
