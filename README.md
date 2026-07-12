@@ -16,16 +16,6 @@ solutions and AI-powered platforms.
 
 ---
 
-<h3>
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25" /> &nbsp;Trophy Case
-</h3>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sunnyshin8&theme=matrix&no-frame=true&margin-w=10&column=7&no-bg=true" alt="trophies" />
-</p>
-
----
-
 <h3>⚡ Tech Stack</h3>
 
 <details open>
@@ -115,13 +105,13 @@ solutions and AI-powered platforms.
 <h3>📊 GitHub Stats</h3>
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sunnyshin8&theme=matrix&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=0B6623&background=0D1117&stroke=00FF41&currStreakNum=00FF41&sideNums=00FF41" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sunnyshin8&theme=matrix&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=0B6623&background=0D1117&stroke=00FF41&currStreakNum=00FF41&sideNums=00FF41" alt="GitHub Streak" /></a>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sunnyshin8&show_icons=true&hide_border=true&count_private=true&rank_icon=github&bg_color=0D1117&title_color=00FF41&text_color=00FF41&icon_color=00FF41&ring_color=00FF41" alt="sunnyshin8's Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=sunnyshin8&show_icons=true&hide_border=true&count_private=true&rank_icon=github&bg_color=0D1117&title_color=00FF41&text_color=00FF41&icon_color=00FF41&ring_color=00FF41" alt="sunnyshin8's Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnyshin8&hide_border=true&layout=compact&bg_color=0D1117&title_color=00FF41&text_color=00FF41&icon_color=00FF41" alt="sunnyshin8's Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sunnyshin8&hide_border=true&layout=compact&bg_color=0D1117&title_color=00FF41&text_color=00FF41&icon_color=00FF41" alt="sunnyshin8's Top Languages" />
 </p>
 
 <br>
