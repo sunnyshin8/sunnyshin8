@@ -105,7 +105,7 @@ solutions and AI-powered platforms.
 <h3>📊 GitHub Stats</h3>
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sunnyshin8&theme=matrix&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=0B6623&background=0D1117&stroke=00FF41&currStreakNum=00FF41&sideNums=00FF41" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sunnyshin8&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=00FF41&sideNums=00FF41&dates=238636&stroke=00FF4133&v=2" alt="GitHub Streak" /></a>
 </p>
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=sunnyshin8&show_icons=true&hide_border=true&count_private=true&rank_icon=github&bg_color=0D1117&title_color=00FF41&text_color=00FF41&icon_color=00FF41&ring_color=00FF41" alt="sunnyshin8's Stats" />

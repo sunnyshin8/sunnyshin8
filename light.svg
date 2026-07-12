@@ -18,12 +18,13 @@
       <animateTransform attributeName="gradientTransform" type="rotate" from="0 0.5 0.5" to="360 0.5 0.5" dur="8s" repeatCount="indefinite" />
     </linearGradient>
 
-    <!-- Typing cursor clip paths for roles -->
-    <clipPath id="role1"><rect x="30" y="88" height="22" width="0"><animate attributeName="width" values="0;185;185;0;0" keyTimes="0;0.06;0.19;0.2;1" dur="16s" repeatCount="indefinite" /></rect></clipPath>
-    <clipPath id="role2"><rect x="30" y="88" height="22" width="0"><animate attributeName="width" values="0;0;0;210;210;0;0" keyTimes="0;0.2;0.2;0.26;0.39;0.4;1" dur="16s" repeatCount="indefinite" /></rect></clipPath>
-    <clipPath id="role3"><rect x="30" y="88" height="22" width="0"><animate attributeName="width" values="0;0;0;155;155;0;0" keyTimes="0;0.4;0.4;0.46;0.59;0.6;1" dur="16s" repeatCount="indefinite" /></rect></clipPath>
-    <clipPath id="role4"><rect x="30" y="88" height="22" width="0"><animate attributeName="width" values="0;0;0;180;180;0;0" keyTimes="0;0.6;0.6;0.66;0.79;0.8;1" dur="16s" repeatCount="indefinite" /></rect></clipPath>
-    <clipPath id="role5"><rect x="30" y="88" height="22" width="0"><animate attributeName="width" values="0;0;0;225;225;0" keyTimes="0;0.8;0.8;0.86;0.98;1" dur="16s" repeatCount="indefinite" /></rect></clipPath>
+    <!-- Typing cursor clip paths for roles (6 roles) -->
+    <clipPath id="role1"><rect x="30" y="88" height="22" width="0"><animate attributeName="width" values="0;185;185;0;0" keyTimes="0;0.05;0.155;0.165;1" dur="18s" repeatCount="indefinite" /></rect></clipPath>
+    <clipPath id="role2"><rect x="30" y="88" height="22" width="0"><animate attributeName="width" values="0;0;0;230;230;0;0" keyTimes="0;0.165;0.165;0.215;0.32;0.33;1" dur="18s" repeatCount="indefinite" /></rect></clipPath>
+    <clipPath id="role3"><rect x="30" y="88" height="22" width="0"><animate attributeName="width" values="0;0;0;200;200;0;0" keyTimes="0;0.33;0.33;0.38;0.485;0.495;1" dur="18s" repeatCount="indefinite" /></rect></clipPath>
+    <clipPath id="role4"><rect x="30" y="88" height="22" width="0"><animate attributeName="width" values="0;0;0;225;225;0;0" keyTimes="0;0.495;0.495;0.545;0.65;0.66;1" dur="18s" repeatCount="indefinite" /></rect></clipPath>
+    <clipPath id="role5"><rect x="30" y="88" height="22" width="0"><animate attributeName="width" values="0;0;0;155;155;0;0" keyTimes="0;0.66;0.66;0.71;0.815;0.825;1" dur="18s" repeatCount="indefinite" /></rect></clipPath>
+    <clipPath id="role6"><rect x="30" y="88" height="22" width="0"><animate attributeName="width" values="0;0;0;225;225;0" keyTimes="0;0.825;0.825;0.875;0.98;1" dur="18s" repeatCount="indefinite" /></rect></clipPath>
   </defs>
 
   <style>
@@ -88,10 +89,11 @@
     <!-- Typing Role Carousel -->
     <g class="mono" font-size="16" font-weight="600" fill="#1A7F37">
       <text x="30" y="105" clip-path="url(#role1)">Software Engineer</text>
-      <text x="30" y="105" clip-path="url(#role2)">AI / ML Engineer</text>
-      <text x="30" y="105" clip-path="url(#role3)">Data Analyst</text>
-      <text x="30" y="105" clip-path="url(#role4)">Cloud Architect</text>
-      <text x="30" y="105" clip-path="url(#role5)">Full Stack Developer</text>
+      <text x="30" y="105" clip-path="url(#role2)">Cyber Security Analyst</text>
+      <text x="30" y="105" clip-path="url(#role3)">AI Backend Engineer</text>
+      <text x="30" y="105" clip-path="url(#role4)">Full Stack Developer</text>
+      <text x="30" y="105" clip-path="url(#role5)">Data Analyst</text>
+      <text x="30" y="105" clip-path="url(#role6)">AI / ML Engineer</text>
       <!-- Blinking cursor -->
       <rect x="30" y="90" width="2" height="18" fill="#1A7F37" class="blink" />
     </g>
